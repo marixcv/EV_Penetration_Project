@@ -1,0 +1,37 @@
+Sl_No,State__UT,Total_EV,Total_Vehicles_Sold,Percent_of_Share_of_EV_in_Total_Vehicles_Sold
+1.0,Uttar Pradesh,665247.0,15317699,4.34
+2.0,Maharashtra,439358.0,11055082,3.97
+3.0,Karnataka,350810.0,7315250,4.8
+4.0,Tamil Nadu,228850.0,8476042,2.7
+5.0,Rajasthan,233503.0,6490725,3.6
+6.0,Bihar,214921.0,5763437,3.73
+7.0,Delhi,216084.0,2799571,7.72
+8.0,Gujarat,191185.0,7450473,2.57
+9.0,Madhya Pradesh,144782.0,6812437,2.13
+10.0,Kerala,151029.0,3781393,3.99
+11.0,Assam,150617.0,2599986,5.79
+12.0,Odisha,97056.0,3355237,2.89
+13.0,Andhra Pradesh,88534.0,4772995,1.85
+14.0,Chhattisgarh,80348.0,2656935,3.02
+15.0,Haryana,81775.0,3703954,2.21
+16.0,West Bengal,69220.0,5099551,1.36
+17.0,Punjab,56459.0,2973281,1.9
+18.0,Jharkhand,47400.0,2545053,1.86
+19.0,Uttarakhand,48522.0,1120010,4.33
+20.0,Jammu And Kashmir,19099.0,823164,2.32
+21.0,Goa,20330.0,323748,6.28
+22.0,Tripura,20113.0,264004,7.62
+23.0,Chandigarh,12375.0,219391,5.64
+24.0,Puducherry,5933.0,252488,2.35
+25.0,Himachal Pradesh,3043.0,636556,0.48
+26.0,Manipur,1273.0,168310,0.76
+27.0,Meghalaya,572.0,162249,0.35
+28.0,Mizoram,344.0,136845,0.25
+29.0,Dadra And Nagar Haveli And Daman And Diu,468.0,90571,0.52
+30.0,Andaman And Nicobar Islands,191.0,35896,0.53
+31.0,Ladakh,88.0,19645,0.45
+32.0,Arunachal Pradesh,42.0,137145,0.03
+33.0,Nagaland,27.0,119281,0.02
+34.0,Lakshadweep,19.0,2752,0.69
+35.0,Sikkim,,49884,0.0
+,Total,3639617.0,107531040,3.38
