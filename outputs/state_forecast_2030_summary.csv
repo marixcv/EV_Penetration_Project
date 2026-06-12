@@ -1,0 +1,35 @@
+State,Predicted_EV_Registrations_2030,Model_Fit_Score,Nonzero_EV_Months,Forecast_Method,Forecast_Confidence
+Rajasthan,10178349.345497264,0.9070565870771709,65,Polynomial Ridge Regression,High
+Uttar Pradesh,2003976.5698914903,0.9281439131333888,65,Polynomial Ridge Regression,High
+Maharashtra,1255808.7275290329,0.8393118696795371,65,Polynomial Ridge Regression,High
+Karnataka,899184.5419194571,0.8203448679506699,65,Polynomial Ridge Regression,High
+Gujarat,387778.26545300486,0.7431358715733994,64,Polynomial Ridge Regression,High
+Odisha,356785.7606999991,0.8739194215755671,65,Polynomial Ridge Regression,High
+Assam,311484.2764269575,0.8634295075416205,65,Polynomial Ridge Regression,High
+Chhattisgarh,292548.08119985496,0.8615965641356816,65,Polynomial Ridge Regression,High
+Haryana,179739.75485665695,0.8570196024832502,65,Polynomial Ridge Regression,High
+Bihar,175440.64607342414,0.06537348898423767,65,Polynomial Ridge Regression,Medium
+Jharkhand,135049.40774004764,0.8860538719800317,65,Polynomial Ridge Regression,High
+Delhi,102116.45614777197,0.024992889425905496,65,Polynomial Ridge Regression,Medium
+Uttarakhand,90354.6864113657,0.6908543992227061,65,Polynomial Ridge Regression,High
+Madhya Pradesh,82592.34488437968,0.02636235897684769,65,Polynomial Ridge Regression,Medium
+Jammu And Kashmir,82420.01429352802,0.9095738791648585,56,Polynomial Ridge Regression,High
+Goa,81153.0934405055,0.8651825983735429,62,Polynomial Ridge Regression,High
+Chandigarh,44564.0411203862,0.8511236140220833,64,Polynomial Ridge Regression,High
+Tripura,28269.327171411314,0.5712064746936829,64,Polynomial Ridge Regression,High
+Puducherry,25071.305073552056,0.841033145064726,64,Polynomial Ridge Regression,High
+Meghalaya,7271.986536371719,0.22616875366881684,43,Polynomial Ridge Regression,Medium
+The Dadra And Nagar Haveli And Daman And Diu,1918.9078638014828,0.7845321475823367,56,Polynomial Ridge Regression,High
+Ladakh,1187.554104001685,0.060099100722800114,12,Polynomial Ridge Regression,Low
+Nagaland,65.01918515881937,0.01060672799389406,14,Polynomial Ridge Regression,Low
+Sikkim,48.0,,1,Fallback Average,Low
+Andhra Pradesh,0.0,0.28919691710443896,65,Polynomial Ridge Regression,Medium
+Andaman And Nicobar Islands,0.0,0.007566238474086551,34,Polynomial Ridge Regression,Medium
+Kerala,0.0,0.3437565888838078,65,Polynomial Ridge Regression,Medium
+Himachal Pradesh,0.0,0.12564159138359032,58,Polynomial Ridge Regression,Medium
+Arunachal Pradesh,0.0,0.46761550656243667,54,Polynomial Ridge Regression,Medium
+Manipur,0.0,0.0054794307615025906,58,Polynomial Ridge Regression,Medium
+Punjab,0.0,0.06474074602656743,65,Polynomial Ridge Regression,Medium
+Mizoram,0.0,0.011526362290668057,29,Polynomial Ridge Regression,Medium
+Tamil Nadu,0.0,0.07798994131302628,65,Polynomial Ridge Regression,Medium
+West Bengal,0.0,0.05744337888791362,65,Polynomial Ridge Regression,Medium

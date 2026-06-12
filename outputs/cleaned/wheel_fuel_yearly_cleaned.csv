@@ -1,0 +1,496 @@
+Category,Fuel_Type,Financial_Year,Registrations,Year,Is_EV
+All Vehicles,Total,FY2011,14483963.0,2011,False
+All Vehicles,EV,FY2011,4904.0,2011,True
+All Vehicles,Petrol,FY2011,11718948.0,2011,False
+All Vehicles,Diesel,FY2011,2277069.0,2011,False
+2W,Total,FY2011,10489721.0,2011,False
+2W,EV,FY2011,4068.0,2011,True
+2W,Petrol,FY2011,10467018.0,2011,False
+3W Passenger,Total,FY2011,364407.0,2011,False
+3W Passenger,EV,FY2011,19.0,2011,True
+3W Passenger,Diesel,FY2011,218672.0,2011,False
+3W Passenger,Petrol/CNG,FY2011,39917.0,2011,False
+3W Goods,Total,FY2011,65737.0,2011,False
+3W Goods,EV,FY2011,7.0,2011,True
+3W Goods,Diesel,FY2011,57535.0,2011,False
+3W Goods,CNG,FY2011,6835.0,2011,False
+Cars,Total,FY2011,2331579.0,2011,False
+Cars,EV,FY2011,411.0,2011,True
+Cars,Diesel,FY2011,875334.0,2011,False
+Cars,Petrol,FY2011,1185924.0,2011,False
+Bus,Total,FY2011,109281.0,2011,False
+Bus,EV,FY2011,2.0,2011,True
+Bus,Diesel,FY2011,90256.0,2011,False
+LGV (up to 7/5 tonnes),Total,FY2011,312051.0,2011,False
+LGV (up to 7/5 tonnes),EV,FY2011,24.0,2011,True
+LGV (up to 7/5 tonnes),Diesel,FY2011,299014.0,2011,False
+MGV (7.5-12 tonnes),Total,FY2011,48631.0,2011,False
+MGV (7.5-12 tonnes),EV,FY2011,0.0,2011,True
+MGV (7.5-12 tonnes),Diesel,FY2011,48147.0,2011,False
+HGV (>12 tonnes),Total,FY2011,234711.0,2011,False
+HGV (>12 tonnes),EV,FY2011,7.0,2011,True
+HGV (>12 tonnes),Diesel,FY2011,233267.0,2011,False
+Others,Total,FY2011,529752.0,2011,False
+Others,EV,FY2011,358.0,2011,True
+All Vehicles,Total,FY2012,16781232.0,2012,False
+All Vehicles,EV,FY2012,7665.0,2012,True
+All Vehicles,Petrol,FY2012,13504311.0,2012,False
+All Vehicles,Diesel,FY2012,2779009.0,2012,False
+2W,Total,FY2012,12378594.0,2012,False
+2W,EV,FY2012,6662.0,2012,True
+2W,Petrol,FY2012,12355175.0,2012,False
+3W Passenger,Total,FY2012,367666.0,2012,False
+3W Passenger,EV,FY2012,28.0,2012,True
+3W Passenger,Diesel,FY2012,199938.0,2012,False
+3W Passenger,Petrol/CNG,FY2012,48040.0,2012,False
+3W Goods,Total,FY2012,77944.0,2012,False
+3W Goods,EV,FY2012,10.0,2012,True
+3W Goods,Diesel,FY2012,69966.0,2012,False
+3W Goods,CNG,FY2012,6280.0,2012,False
+Cars,Total,FY2012,2543941.0,2012,False
+Cars,EV,FY2012,698.0,2012,True
+Cars,Diesel,FY2012,1170069.0,2012,False
+Cars,Petrol,FY2012,1097594.0,2012,False
+Bus,Total,FY2012,114306.0,2012,False
+Bus,EV,FY2012,4.0,2012,True
+Bus,Diesel,FY2012,98022.0,2012,False
+LGV (up to 7/5 tonnes),Total,FY2012,381889.0,2012,False
+LGV (up to 7/5 tonnes),EV,FY2012,24.0,2012,True
+LGV (up to 7/5 tonnes),Diesel,FY2012,381889.0,2012,False
+MGV (7.5-12 tonnes),Total,FY2012,44279.0,2012,False
+MGV (7.5-12 tonnes),EV,FY2012,1.0,2012,True
+MGV (7.5-12 tonnes),Diesel,FY2012,43776.0,2012,False
+HGV (>12 tonnes),Total,FY2012,254584.0,2012,False
+HGV (>12 tonnes),EV,FY2012,10.0,2012,True
+HGV (>12 tonnes),Diesel,FY2012,252254.0,2012,False
+Others,Total,FY2012,621360.0,2012,False
+Others,EV,FY2012,223.0,2012,True
+All Vehicles,Total,FY2013,17506912.0,2013,False
+All Vehicles,EV,FY2013,4045.0,2013,True
+All Vehicles,Petrol,FY2013,13931829.0,2013,False
+All Vehicles,Diesel,FY2013,3128371.0,2013,False
+2W,Total,FY2013,12989261.0,2013,False
+2W,EV,FY2013,3477.0,2013,True
+2W,Petrol,FY2013,12967756.0,2013,False
+3W Passenger,Total,FY2013,408442.0,2013,False
+3W Passenger,EV,FY2013,17.0,2013,True
+3W Passenger,Diesel,FY2013,266284.0,2013,False
+3W Passenger,Petrol/CNG,FY2013,71010.0,2013,False
+3W Goods,Total,FY2013,73002.0,2013,False
+3W Goods,EV,FY2013,14.0,2013,True
+3W Goods,Diesel,FY2013,67844.0,2013,False
+3W Goods,CNG,FY2013,4034.0,2013,False
+Cars,Total,FY2013,2586828.0,2013,False
+Cars,EV,FY2013,229.0,2013,True
+Cars,Diesel,FY2013,1446377.0,2013,False
+Cars,Petrol,FY2013,923852.0,2013,False
+Bus,Total,FY2013,122343.0,2013,False
+Bus,EV,FY2013,1.0,2013,True
+Bus,Diesel,FY2013,107921.0,2013,False
+LGV (up to 7/5 tonnes),Total,FY2013,441451.0,2013,False
+LGV (up to 7/5 tonnes),EV,FY2013,28.0,2013,True
+LGV (up to 7/5 tonnes),Diesel,FY2013,429138.0,2013,False
+MGV (7.5-12 tonnes),Total,FY2013,35305.0,2013,False
+MGV (7.5-12 tonnes),EV,FY2013,1.0,2013,True
+MGV (7.5-12 tonnes),Diesel,FY2013,34990.0,2013,False
+HGV (>12 tonnes),Total,FY2013,205544.0,2013,False
+HGV (>12 tonnes),EV,FY2013,11.0,2013,True
+HGV (>12 tonnes),Diesel,FY2013,200494.0,2013,False
+Others,Total,FY2013,652197.0,2013,False
+Others,EV,FY2013,263.0,2013,True
+All Vehicles,Total,FY2014,17964752.0,2014,False
+All Vehicles,EV,FY2014,2634.0,2014,True
+All Vehicles,Petrol,FY2014,14649851.0,2014,False
+All Vehicles,Diesel,FY2014,2919775.0,2014,False
+2W,Total,FY2014,13685653.0,2014,False
+2W,EV,FY2014,1895.0,2014,True
+2W,Petrol,FY2014,13667561.0,2014,False
+3W Passenger,Total,FY2014,353250.0,2014,False
+3W Passenger,EV,FY2014,23.0,2014,True
+3W Passenger,Diesel,FY2014,232101.0,2014,False
+3W Passenger,Petrol/CNG,FY2014,59129.0,2014,False
+3W Goods,Total,FY2014,71850.0,2014,False
+3W Goods,EV,FY2014,4.0,2014,True
+3W Goods,Diesel,FY2014,68843.0,2014,False
+3W Goods,CNG,FY2014,2321.0,2014,False
+Cars,Total,FY2014,2442265.0,2014,False
+Cars,EV,FY2014,451.0,2014,True
+Cars,Diesel,FY2014,1317928.0,2014,False
+Cars,Petrol,FY2014,946996.0,2014,False
+Bus,Total,FY2014,116353.0,2014,False
+Bus,EV,FY2014,2.0,2014,True
+Bus,Diesel,FY2014,101094.0,2014,False
+LGV (up to 7/5 tonnes),Total,FY2014,399208.0,2014,False
+LGV (up to 7/5 tonnes),EV,FY2014,37.0,2014,True
+LGV (up to 7/5 tonnes),Diesel,FY2014,386878.0,2014,False
+MGV (7.5-12 tonnes),Total,FY2014,25869.0,2014,False
+MGV (7.5-12 tonnes),EV,FY2014,1.0,2014,True
+MGV (7.5-12 tonnes),Diesel,FY2014,25540.0,2014,False
+HGV (>12 tonnes),Total,FY2014,158096.0,2014,False
+HGV (>12 tonnes),EV,FY2014,10.0,2014,True
+HGV (>12 tonnes),Diesel,FY2014,156228.0,2014,False
+Others,Total,FY2014,716885.0,2014,False
+Others,EV,FY2014,205.0,2014,True
+All Vehicles,Total,FY2015,19403029.0,2015,False
+All Vehicles,EV,FY2015,2343.0,2015,True
+All Vehicles,Petrol,FY2015,16090279.0,2015,False
+All Vehicles,Diesel,FY2015,2823881.0,2015,False
+2W,Total,FY2015,14961451.0,2015,False
+2W,EV,FY2015,1569.0,2015,True
+2W,Petrol,FY2015,14934713.0,2015,False
+3W Passenger,Total,FY2015,401805.0,2015,False
+3W Passenger,EV,FY2015,10.0,2015,True
+3W Passenger,Diesel,FY2015,229734.0,2015,False
+3W Passenger,Petrol/CNG,FY2015,90492.0,2015,False
+3W Goods,Total,FY2015,78306.0,2015,False
+3W Goods,EV,FY2015,4.0,2015,True
+3W Goods,Diesel,FY2015,74913.0,2015,False
+3W Goods,CNG,FY2015,2671.0,2015,False
+Cars,Total,FY2015,2567999.0,2015,False
+Cars,EV,FY2015,634.0,2015,True
+Cars,Diesel,FY2015,1255374.0,2015,False
+Cars,Petrol,FY2015,1107683.0,2015,False
+Bus,Total,FY2015,106094.0,2015,False
+Bus,EV,FY2015,3.0,2015,True
+Bus,Diesel,FY2015,87589.0,2015,False
+LGV (up to 7/5 tonnes),Total,FY2015,349090.0,2015,False
+LGV (up to 7/5 tonnes),EV,FY2015,14.0,2015,True
+LGV (up to 7/5 tonnes),Diesel,FY2015,334249.0,2015,False
+MGV (7.5-12 tonnes),Total,FY2015,22096.0,2015,False
+MGV (7.5-12 tonnes),EV,FY2015,0.0,2015,True
+MGV (7.5-12 tonnes),Diesel,FY2015,21893.0,2015,False
+HGV (>12 tonnes),Total,FY2015,173045.0,2015,False
+HGV (>12 tonnes),EV,FY2015,5.0,2015,True
+HGV (>12 tonnes),Diesel,FY2015,171624.0,2015,False
+Others,Total,FY2015,747768.0,2015,False
+Others,EV,FY2015,163.0,2015,True
+All Vehicles,Total,FY2016,20122809.0,2016,False
+All Vehicles,EV,FY2016,16169.0,2016,True
+All Vehicles,Petrol,FY2016,16864546.0,2016,False
+All Vehicles,Diesel,FY2016,2734911.0,2016,False
+2W,Total,FY2016,15577836.0,2016,False
+2W,EV,FY2016,1471.0,2016,True
+2W,Petrol,FY2016,15548753.0,2016,False
+3W Passenger,Total,FY2016,395938.0,2016,False
+3W Passenger,EV,FY2016,590.0,2016,True
+3W Passenger,Diesel,FY2016,222243.0,2016,False
+3W Passenger,Petrol/CNG,FY2016,92490.0,2016,False
+3W Goods,Total,FY2016,79129.0,2016,False
+3W Goods,EV,FY2016,9.0,2016,True
+3W Goods,Diesel,FY2016,75258.0,2016,False
+3W Goods,CNG,FY2016,2972.0,2016,False
+Cars,Total,FY2016,2698413.0,2016,False
+Cars,EV,FY2016,782.0,2016,True
+Cars,Diesel,FY2016,1208750.0,2016,False
+Cars,Petrol,FY2016,1270333.0,2016,False
+Bus,Total,FY2016,113448.0,2016,False
+Bus,EV,FY2016,4.0,2016,True
+Bus,Diesel,FY2016,95320.0,2016,False
+LGV (up to 7/5 tonnes),Total,FY2016,338607.0,2016,False
+LGV (up to 7/5 tonnes),EV,FY2016,14.0,2016,True
+LGV (up to 7/5 tonnes),Diesel,FY2016,322987.0,2016,False
+MGV (7.5-12 tonnes),Total,FY2016,24732.0,2016,False
+MGV (7.5-12 tonnes),EV,FY2016,0.0,2016,True
+MGV (7.5-12 tonnes),Diesel,FY2016,24493.0,2016,False
+HGV (>12 tonnes),Total,FY2016,221749.0,2016,False
+HGV (>12 tonnes),EV,FY2016,5.0,2016,True
+HGV (>12 tonnes),Diesel,FY2016,220015.0,2016,False
+Others,Total,FY2016,668482.0,2016,False
+Others,EV,FY2016,162.0,2016,True
+All Vehicles,Total,FY2017,21651768.0,2017,False
+All Vehicles,EV,FY2017,55844.0,2017,True
+All Vehicles,Petrol,FY2017,18228389.0,2017,False
+All Vehicles,Diesel,FY2017,2771274.0,2017,False
+2W,Total,FY2017,16760471.0,2017,False
+2W,EV,FY2017,1394.0,2017,True
+2W,Petrol,FY2017,16733216.0,2017,False
+3W Passenger,Total,FY2017,392987.0,2017,False
+3W Passenger,EV,FY2017,1176.0,2017,True
+3W Passenger,Diesel,FY2017,206240.0,2017,False
+3W Passenger,Petrol/CNG,FY2017,97412.0,2017,False
+3W Goods,Total,FY2017,87194.0,2017,False
+3W Goods,EV,FY2017,33.0,2017,True
+3W Goods,Diesel,FY2017,80598.0,2017,False
+3W Goods,CNG,FY2017,1155.0,2017,False
+Cars,Total,FY2017,2904723.0,2017,False
+Cars,EV,FY2017,769.0,2017,True
+Cars,Diesel,FY2017,1170548.0,2017,False
+Cars,Petrol,FY2017,1447845.0,2017,False
+Bus,Total,FY2017,121171.0,2017,False
+Bus,EV,FY2017,4.0,2017,True
+Bus,Diesel,FY2017,102217.0,2017,False
+LGV (up to 7/5 tonnes),Total,FY2017,351954.0,2017,False
+LGV (up to 7/5 tonnes),EV,FY2017,108.0,2017,True
+LGV (up to 7/5 tonnes),Diesel,FY2017,335900.0,2017,False
+MGV (7.5-12 tonnes),Total,FY2017,29296.0,2017,False
+MGV (7.5-12 tonnes),EV,FY2017,0.0,2017,True
+MGV (7.5-12 tonnes),Diesel,FY2017,28347.0,2017,False
+HGV (>12 tonnes),Total,FY2017,233720.0,2017,False
+HGV (>12 tonnes),EV,FY2017,3.0,2017,True
+HGV (>12 tonnes),Diesel,FY2017,232306.0,2017,False
+Others,Total,FY2017,723882.0,2017,False
+Others,EV,FY2017,481.0,2017,True
+All Vehicles,Total,FY2018,23959683.0,2018,False
+All Vehicles,EV,FY2018,96491.0,2018,True
+All Vehicles,Petrol,FY2018,20231975.0,2018,False
+All Vehicles,Diesel,FY2018,2952458.0,2018,False
+2W,Total,FY2018,18542331.0,2018,False
+2W,EV,FY2018,2008.0,2018,True
+2W,Petrol,FY2018,18531131.0,2018,False
+3W Passenger,Total,FY2018,458359.0,2018,False
+3W Passenger,EV,FY2018,560.0,2018,True
+3W Passenger,Diesel,FY2018,189358.0,2018,False
+3W Passenger,Petrol/CNG,FY2018,169484.0,2018,False
+3W Goods,Total,FY2018,97259.0,2018,False
+3W Goods,EV,FY2018,137.0,2018,True
+3W Goods,Diesel,FY2018,93110.0,2018,False
+3W Goods,CNG,FY2018,289.0,2018,False
+Cars,Total,FY2018,3153378.0,2018,False
+Cars,EV,FY2018,1213.0,2018,True
+Cars,Diesel,FY2018,1197222.0,2018,False
+Cars,Petrol,FY2018,1657014.0,2018,False
+Bus,Total,FY2018,105845.0,2018,False
+Bus,EV,FY2018,41.0,2018,True
+Bus,Diesel,FY2018,87460.0,2018,False
+LGV (up to 7/5 tonnes),Total,FY2018,422079.0,2018,False
+LGV (up to 7/5 tonnes),EV,FY2018,661.0,2018,True
+LGV (up to 7/5 tonnes),Diesel,FY2018,403787.0,2018,False
+MGV (7.5-12 tonnes),Total,FY2018,27288.0,2018,False
+MGV (7.5-12 tonnes),EV,FY2018,1.0,2018,True
+MGV (7.5-12 tonnes),Diesel,FY2018,25008.0,2018,False
+HGV (>12 tonnes),Total,FY2018,244388.0,2018,False
+HGV (>12 tonnes),EV,FY2018,0.0,2018,True
+HGV (>12 tonnes),Diesel,FY2018,243395.0,2018,False
+Others,Total,FY2018,826635.0,2018,False
+Others,EV,FY2018,556.0,2018,True
+All Vehicles,Total,FY2019,25317093.0,2019,False
+All Vehicles,EV,FY2019,146941.0,2019,True
+All Vehicles,Petrol,FY2019,21191006.0,2019,False
+All Vehicles,Diesel,FY2019,3165488.0,2019,False
+2W,Total,FY2019,19501119.0,2019,False
+2W,EV,FY2019,28494.0,2019,True
+2W,Petrol,FY2019,19470481.0,2019,False
+3W Passenger,Total,FY2019,534137.0,2019,False
+3W Passenger,EV,FY2019,558.0,2019,True
+3W Passenger,Diesel,FY2019,212313.0,2019,False
+3W Passenger,Petrol/CNG,FY2019,190779.0,2019,False
+3W Goods,Total,FY2019,115637.0,2019,False
+3W Goods,EV,FY2019,303.0,2019,True
+3W Goods,Diesel,FY2019,108970.0,2019,False
+3W Goods,CNG,FY2019,36.0,2019,False
+Cars,Total,FY2019,3163364.0,2019,False
+Cars,EV,FY2019,1841.0,2019,True
+Cars,Diesel,FY2019,1112986.0,2019,False
+Cars,Petrol,FY2019,1681582.0,2019,False
+Bus,Total,FY2019,106989.0,2019,False
+Bus,EV,FY2019,146.0,2019,True
+Bus,Diesel,FY2019,90947.0,2019,False
+LGV (up to 7/5 tonnes),Total,FY2019,520047.0,2019,False
+LGV (up to 7/5 tonnes),EV,FY2019,478.0,2019,True
+LGV (up to 7/5 tonnes),Diesel,FY2019,494658.0,2019,False
+MGV (7.5-12 tonnes),Total,FY2019,37692.0,2019,False
+MGV (7.5-12 tonnes),EV,FY2019,1.0,2019,True
+MGV (7.5-12 tonnes),Diesel,FY2019,33528.0,2019,False
+HGV (>12 tonnes),Total,FY2019,293107.0,2019,False
+HGV (>12 tonnes),EV,FY2019,0.0,2019,True
+HGV (>12 tonnes),Diesel,FY2019,292440.0,2019,False
+Others,Total,FY2019,943157.0,2019,False
+Others,EV,FY2019,289.0,2019,True
+All Vehicles,Total,FY2020,24592926.0,2020,False
+All Vehicles,EV,FY2020,173613.0,2020,True
+All Vehicles,Petrol,FY2020,20724047.0,2020,False
+All Vehicles,Diesel,FY2020,2946133.0,2020,False
+2W,Total,FY2020,20600931.0,2020,False
+2W,EV,FY2020,28147.0,2020,True
+2W,Petrol,FY2020,19033151.0,2020,False
+3W Passenger,Total,FY2020,620982.0,2020,False
+3W Passenger,EV,FY2020,1491.0,2020,True
+3W Passenger,Diesel,FY2020,252799.0,2020,False
+3W Passenger,Petrol/CNG,FY2020,172802.0,2020,False
+3W Goods,Total,FY2020,128334.0,2020,False
+3W Goods,EV,FY2020,342.0,2020,True
+3W Goods,Diesel,FY2020,119735.0,2020,False
+3W Goods,CNG,FY2020,46.0,2020,False
+Cars,Total,FY2020,2955833.0,2020,False
+Cars,EV,FY2020,3215.0,2020,True
+Cars,Diesel,FY2020,943765.0,2020,False
+Cars,Petrol,FY2020,1662092.0,2020,False
+Bus,Total,FY2020,110007.0,2020,False
+Bus,EV,FY2020,492.0,2020,True
+Bus,Diesel,FY2020,100426.0,2020,False
+LGV (up to 7/5 tonnes),Total,FY2020,574797.0,2020,False
+LGV (up to 7/5 tonnes),EV,FY2020,43.0,2020,True
+LGV (up to 7/5 tonnes),Diesel,FY2020,509290.0,2020,False
+MGV (7.5-12 tonnes),Total,FY2020,39669.0,2020,False
+MGV (7.5-12 tonnes),EV,FY2020,0.0,2020,True
+MGV (7.5-12 tonnes),Diesel,FY2020,31885.0,2020,False
+HGV (>12 tonnes),Total,FY2020,215830.0,2020,False
+HGV (>12 tonnes),EV,FY2020,0.0,2020,True
+HGV (>12 tonnes),Diesel,FY2020,210498.0,2020,False
+Others,Total,FY2020,874245.0,2020,False
+Others,EV,FY2020,29.0,2020,True
+All Vehicles,Total,FY2021,17521374.0,2021,False
+All Vehicles,EV,FY2021,142419.0,2021,True
+All Vehicles,Petrol,FY2021,15081341.0,2021,False
+All Vehicles,Diesel,FY2021,1791005.0,2021,False
+2W,Total,FY2021,14279428.0,2021,False
+2W,EV,FY2021,49486.0,2021,True
+2W,Petrol,FY2021,13220064.0,2021,False
+3W Passenger,Total,FY2021,143051.0,2021,False
+3W Passenger,EV,FY2021,1667.0,2021,True
+3W Passenger,Diesel,FY2021,58844.0,2021,False
+3W Passenger,Petrol/CNG,FY2021,13496.0,2021,False
+3W Goods,Total,FY2021,66925.0,2021,False
+3W Goods,EV,FY2021,843.0,2021,True
+3W Goods,Diesel,FY2021,59951.0,2021,False
+3W Goods,CNG,FY2021,5097.0,2021,False
+Cars,Total,FY2021,2570017.0,2021,False
+Cars,EV,FY2021,5901.0,2021,True
+Cars,Diesel,FY2021,430733.0,2021,False
+Cars,Petrol,FY2021,1809794.0,2021,False
+Bus,Total,FY2021,16028.0,2021,False
+Bus,EV,FY2021,380.0,2021,True
+Bus,Diesel,FY2021,14353.0,2021,False
+LGV (up to 7/5 tonnes),Total,FY2021,346375.0,2021,False
+LGV (up to 7/5 tonnes),EV,FY2021,31.0,2021,True
+LGV (up to 7/5 tonnes),Diesel,FY2021,265485.0,2021,False
+MGV (7.5-12 tonnes),Total,FY2021,21924.0,2021,False
+MGV (7.5-12 tonnes),EV,FY2021,0.0,2021,True
+MGV (7.5-12 tonnes),Diesel,FY2021,20357.0,2021,False
+HGV (>12 tonnes),Total,FY2021,87207.0,2021,False
+HGV (>12 tonnes),EV,FY2021,0.0,2021,True
+HGV (>12 tonnes),Diesel,FY2021,82316.0,2021,False
+Others,Total,FY2021,963040.0,2021,False
+Others,EV,FY2021,35.0,2021,True
+All Vehicles,Total,FY2022,18445111.0,2022,False
+All Vehicles,EV,FY2022,459065.0,2022,True
+All Vehicles,Petrol,FY2022,15289445.0,2022,False
+All Vehicles,Diesel,FY2022,1972825.0,2022,False
+2W,Total,FY2022,14645293.0,2022,False
+2W,EV,FY2022,279893.0,2022,True
+2W,Petrol,FY2022,13272505.0,2022,False
+3W Passenger,Total,FY2022,188762.0,2022,False
+3W Passenger,EV,FY2022,5207.0,2022,True
+3W Passenger,Diesel,FY2022,34482.0,2022,False
+3W Passenger,Petrol/CNG,FY2022,15706.0,2022,False
+3W Goods,Total,FY2022,79950.0,2022,False
+3W Goods,EV,FY2022,6603.0,2022,True
+3W Goods,Diesel,FY2022,52226.0,2022,False
+3W Goods,CNG,FY2022,18416.0,2022,False
+Cars,Total,FY2022,2927142.0,2022,False
+Cars,EV,FY2022,21194.0,2022,True
+Cars,Diesel,FY2022,546141.0,2022,False
+Cars,Petrol,FY2022,1956719.0,2022,False
+Bus,Total,FY2022,20893.0,2022,False
+Bus,EV,FY2022,1194.0,2022,True
+Bus,Diesel,FY2022,17808.0,2022,False
+LGV (up to 7/5 tonnes),Total,FY2022,440516.0,2022,False
+LGV (up to 7/5 tonnes),EV,FY2022,1021.0,2022,True
+LGV (up to 7/5 tonnes),Diesel,FY2022,287321.0,2022,False
+MGV (7.5-12 tonnes),Total,FY2022,37199.0,2022,False
+MGV (7.5-12 tonnes),EV,FY2022,0.0,2022,True
+MGV (7.5-12 tonnes),Diesel,FY2022,21324.0,2022,False
+HGV (>12 tonnes),Total,FY2022,171458.0,2022,False
+HGV (>12 tonnes),EV,FY2022,0.0,2022,True
+HGV (>12 tonnes),Diesel,FY2022,155788.0,2022,False
+Others,Total,FY2022,947666.0,2022,False
+Others,EV,FY2022,99.0,2022,True
+All Vehicles,Total,FY2023,22331887.0,2023,False
+All Vehicles,EV,FY2023,1183331.0,2023,True
+All Vehicles,Petrol,FY2023,17559546.0,2023,False
+All Vehicles,Diesel,FY2023,2447274.0,2023,False
+2W,Total,FY2023,21763966.0,2023,False
+2W,EV,FY2023,783373.0,2023,True
+2W,Petrol,FY2023,15301431.0,2023,False
+3W Passenger,Total,FY2023,318312.0,2023,False
+3W Passenger,EV,FY2023,15374.0,2023,True
+3W Passenger,Diesel,FY2023,51450.0,2023,False
+3W Passenger,Petrol/CNG,FY2023,17298.0,2023,False
+3W Goods,Total,FY2023,97143.0,2023,False
+3W Goods,EV,FY2023,16067.0,2023,True
+3W Goods,Diesel,FY2023,55472.0,2023,False
+3W Goods,CNG,FY2023,22748.0,2023,False
+Cars,Total,FY2023,3615501.0,2023,False
+Cars,EV,FY2023,54471.0,2023,True
+Cars,Diesel,FY2023,686796.0,2023,False
+Cars,Petrol,FY2023,2192892.0,2023,False
+Bus,Total,FY2023,56171.0,2023,False
+Bus,EV,FY2023,2008.0,2023,True
+Bus,Diesel,FY2023,48010.0,2023,False
+LGV (up to 7/5 tonnes),Total,FY2023,559798.0,2023,False
+LGV (up to 7/5 tonnes),EV,FY2023,453.0,2023,True
+LGV (up to 7/5 tonnes),Diesel,FY2023,395725.0,2023,False
+MGV (7.5-12 tonnes),Total,FY2023,37537.0,2023,False
+MGV (7.5-12 tonnes),EV,FY2023,0.0,2023,True
+MGV (7.5-12 tonnes),Diesel,FY2023,27980.0,2023,False
+HGV (>12 tonnes),Total,FY2023,250559.0,2023,False
+HGV (>12 tonnes),EV,FY2023,183.0,2023,True
+HGV (>12 tonnes),Diesel,FY2023,236679.0,2023,False
+Others,Total,FY2023,1039272.0,2023,False
+Others,EV,FY2023,100.0,2023,True
+All Vehicles,Total,FY2024,24640843.0,2024,False
+All Vehicles,EV,FY2024,1678063.0,2024,True
+All Vehicles,Petrol,FY2024,18353673.0,2024,False
+All Vehicles,Diesel,FY2024,2608848.0,2024,False
+2W,Total,FY2024,17550913.0,2024,False
+2W,EV,FY2024,1012841.0,2024,True
+2W,Petrol,FY2024,16578332.0,2024,False
+3W Passenger,Total,FY2024,513627.0,2024,False
+3W Passenger,EV,FY2024,69923.0,2024,True
+3W Passenger,Diesel,FY2024,72759.0,2024,False
+3W Passenger,Petrol/CNG,FY2024,2047.0,2024,False
+3W Goods,Total,FY2024,122160.0,2024,False
+3W Goods,EV,FY2024,31758.0,2024,True
+3W Goods,Diesel,FY2024,60776.0,2024,False
+3W Goods,CNG,FY2024,28881.0,2024,False
+Cars,Total,FY2024,3920160.0,2024,False
+Cars,EV,FY2024,99719.0,2024,True
+Cars,Diesel,FY2024,700828.0,2024,False
+Cars,Petrol,FY2024,2204186.0,2024,False
+Bus,Total,FY2024,91259.0,2024,False
+Bus,EV,FY2024,3733.0,2024,True
+Bus,Diesel,FY2024,78361.0,2024,False
+LGV (up to 7/5 tonnes),Total,FY2024,536247.0,2024,False
+LGV (up to 7/5 tonnes),EV,FY2024,4626.0,2024,True
+LGV (up to 7/5 tonnes),Diesel,FY2024,383532.0,2024,False
+MGV (7.5-12 tonnes),Total,FY2024,42012.0,2024,False
+MGV (7.5-12 tonnes),EV,FY2024,0.0,2024,True
+MGV (7.5-12 tonnes),Diesel,FY2024,32566.0,2024,False
+HGV (>12 tonnes),Total,FY2024,258696.0,2024,False
+HGV (>12 tonnes),EV,FY2024,276.0,2024,True
+HGV (>12 tonnes),Diesel,FY2024,248201.0,2024,False
+Others,Total,FY2024,1133864.0,2024,False
+Others,EV,FY2024,246.0,2024,True
+All Vehicles,Total,FY2025,26220948.0,2025,False
+All Vehicles,EV,FY2025,1964831.0,2025,True
+All Vehicles,Petrol,FY2025,19169293.0,2025,False
+All Vehicles,Diesel,FY2025,2640517.0,2025,False
+2W,Total,FY2025,19551827.0,2025,False
+2W,EV,FY2025,1209658.0,2025,True
+2W,Petrol,FY2025,17675236.0,2025,False
+3W Passenger,Total,FY2025,594281.0,2025,False
+3W Passenger,EV,FY2025,135266.0,2025,True
+3W Passenger,Diesel,FY2025,74204.0,2025,False
+3W Passenger,Petrol/CNG,FY2025,154.0,2025,False
+3W Goods,Total,FY2025,130220.0,2025,False
+3W Goods,EV,FY2025,28044.0,2025,True
+3W Goods,Diesel,FY2025,64354.0,2025,False
+3W Goods,CNG,FY2025,31216.0,2025,False
+Cars,Total,FY2025,4270569.0,2025,False
+Cars,EV,FY2025,115315.0,2025,True
+Cars,Diesel,FY2025,745155.0,2025,False
+Cars,Petrol,FY2025,2106040.0,2025,False
+Bus,Total,FY2025,114542.0,2025,False
+Bus,EV,FY2025,3393.0,2025,True
+Bus,Diesel,FY2025,93005.0,2025,False
+LGV (up to 7/5 tonnes),Total,FY2025,527772.4199999999,2025,False
+LGV (up to 7/5 tonnes),EV,FY2025,5617.0,2025,True
+LGV (up to 7/5 tonnes),Diesel,FY2025,443672.0,2025,False
+MGV (7.5-12 tonnes),Total,FY2025,39560.0,2025,False
+MGV (7.5-12 tonnes),EV,FY2025,0.0,2025,True
+MGV (7.5-12 tonnes),Diesel,FY2025,33892.0,2025,False
+HGV (>12 tonnes),Total,FY2025,235991.0,2025,False
+HGV (>12 tonnes),EV,FY2025,127.0,2025,True
+HGV (>12 tonnes),Diesel,FY2025,226551.0,2025,False
+Others,Total,FY2025,1118234.0,2025,False
+Others,EV,FY2025,376.0,2025,True
