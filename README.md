@@ -1,6 +1,6 @@
 # EV Penetration Analysis India
 
-Interactive Streamlit dashboard for analyzing EV adoption trends, penetration rates, and forecasting EV registrations in India through 2030.
+Interactive Streamlit dashboard for analyzing EV adoption trends, penetration rates, and forecasting EV registrations in India through 2030.git push
 
 ## Project Overview
 
@@ -223,8 +223,8 @@ Generated files are stored in the `outputs/` directory.
 
 ---
 
-## Author
+## Team Members
 
-Maria Shaikh
-
-EV Penetration Analysis India – Data Analytics Project
+- Maria Shaikh
+- Rahul 
+- Sana Ansari
