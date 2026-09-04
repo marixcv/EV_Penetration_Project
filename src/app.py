@@ -18,7 +18,7 @@ st.set_page_config(
 )
 
 BASE_DIR = Path(__file__).resolve().parent
-DATA_DIR = BASE_DIR / "data"
+DATA_DIR = BASE_DIR.parent / "data"
 FORECAST_END_YEAR = 2030
 NEON_COLORS = [
     "#00F5FF",
